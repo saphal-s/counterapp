@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #044750;
+}
+.counter_container {
+  width: 50%;
+  margin: 50px auto;
+  background-color: #036268;
+  padding: 50px;
+  text-align: center;
+  color: #fff;
+}
+.counter_container h1 {
+  font-size: 45px;
+}
+.counter_container p {
+  font-size: 25px;
+  padding: 20px 0;
+}
+.buttons button {
+  border: none;
+  padding: 10px 20px;
+  font-size: 17px;
+  margin: 10px 20px;
+  cursor: pointer;
+}
