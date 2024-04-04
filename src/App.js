@@ -22,7 +22,7 @@ const App = () => {
 
   return (
     <div className="counter_container">
-      <h1>Counter App one</h1>
+      <h1>Counter App Two</h1>
       <p>{number}</p>
       <div className="buttons">
         <button onClick={incrementNumber}>Increment</button>
